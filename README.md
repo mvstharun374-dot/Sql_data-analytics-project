@@ -85,10 +85,6 @@ sql-data-analytics-project/
 ## 👨‍💻 About Me
 **Tharun Mvs**  
 B.Tech Final Year Student  
-
-Skills: SQL, Python, HTML, CSS, JavaScript  
-
 ---
-
 ## ⭐ Thank You
-If you like this project, give it a ⭐ on GitHub!
+
